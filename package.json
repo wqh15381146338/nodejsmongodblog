@@ -13,5 +13,8 @@
   ],
   "author": "Wangqiuhui",
   "license": "GNU",
-  "git repository":"https://github.com/wqh15381146338/nodejsmongodbog"
+  "git repository": "https://github.com/wqh15381146338/nodejsmongodbog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
