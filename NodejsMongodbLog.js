@@ -2,7 +2,7 @@ const express = require("express")
 const app=express()
 const mongoose = require('mongoose');   //mongoose
 
-mongoose.connect('mongodb://localhost/test1');  //连接数据库
+mongoose.connect('mongodb://172.21.2.236:27017/190110910526');  //连接数据库
 const schema={   
     name:String,
     age:Number,
